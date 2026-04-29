@@ -1,0 +1,19 @@
+.venv
+.venv/
+# Python cache
+_pycache_/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Ignore models
+models/
+*.pkl
+
+# Notebook cache
+.ipynb_checkpoints/
+
+tempCodeRunnerFile.py
+
+data/raw/zomato.csv
